@@ -11,3 +11,5 @@
 이라고 부른다. malloc 함수를 호출하여 동적 메모리 할당을 요청하면 요구하는 크기의 메모리를 할당하고 그 시작 
 주소를 반환한다.
 
+
+https://github.com/jiseom/TIL/tree/main/sub
